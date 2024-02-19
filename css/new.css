@@ -1,0 +1,149 @@
+section{
+    width:100%;
+   position:relative;
+    display:flex ;
+    gap:13px;
+    margin-bottom: 8px;
+
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #EFD168;
+}
+.textbox1{
+    
+    width: 100%;
+    display: block;
+}
+.textbox1 img{
+    width: 100%;
+    height: 910px;
+}
+h1{
+    display: flex;
+    padding-left: 30%;
+    font-size: 55px;
+    padding-top: 135px;
+    position: absolute;
+    text-shadow: 3px -1px 3px #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    position: absolute;
+    padding-top: 190px;
+    font-size: 55px;
+    padding-left: 47%;
+    text-shadow: 3px -1px 3px #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textbox2 img{
+    display: flex;
+        height: 370px;
+        width: 750px;
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+.textbox3 img{
+    display: flex;
+    height: 370px;
+    width: 750px;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+  
+.textbox2 span{
+    
+        position: absolute;
+        font-size: 24px;
+        padding-top: 130px;
+        text-transform: uppercase;
+        color: white;
+        padding-left: 250px;
+        font-family: Lato,sans-serif;
+    
+}
+.textbox2 h3{
+    
+    position: absolute;
+    font-size: 26px;
+    padding-top: 160px;
+    text-transform: uppercase;
+    color: white;
+    padding-left: 280px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.textbox2 h4{
+    
+    position: absolute;
+    font-size: 26px;
+    padding-top: 190px;
+    text-transform: uppercase;
+    color: white;
+    padding-left: 330px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button.btn1 {
+    position: absolute;
+    top: 62%;
+    left: 20%;
+    padding: 10px 25px; /
+    fill: #fff;
+    color: #fff;
+    background-color: #653fb0;
+    border: none;
+}
+
+.textbox3 span{
+    
+    position: absolute;
+    font-size: 24px;
+    padding-top: 130px;
+    text-transform: uppercase;
+    color: white;
+    padding-left: 290px;
+    font-family: Lato,sans-serif;
+
+}
+
+.textbox3 h3{
+    
+    position: absolute;
+    font-size: 26px;
+    padding-top: 160px;
+    text-transform: uppercase;
+    color: white;
+    padding-left: 300px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.textbox3 h4{
+    
+    position: absolute;
+    font-size: 28px;
+    padding-top: 190px;
+    text-transform: uppercase;
+    color: white;
+    padding-left: 380px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button.btn2 {
+    position: absolute;
+    top: 62%;
+    left: 74.2%;
+    padding: 10px 25px; 
+    fill: #fff;
+    color: #fff;
+    background-color: #2baedb;
+    border: none;
+
+  
+}
+    

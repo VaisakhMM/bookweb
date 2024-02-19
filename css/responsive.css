@@ -1,0 +1,26 @@
+@media (max-width:400px){
+    .navs{
+     display:none;
+     width: 400px;
+    }
+    .logo{
+     width:100%;
+    }
+    .logo span{
+     font-size: 65px;
+     position: relative;
+     bottom:21px;
+    }
+    .btn{
+     display: block;
+    }
+    .container{
+     display: block!important;
+    }
+    .col1{
+     width:100%!important;
+    }
+    .col2{
+     width:100%!important;
+    }
+ }
